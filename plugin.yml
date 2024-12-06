@@ -1,0 +1,13 @@
+name: PDGHArmas
+main: me.mchiappinam.pdgharmas.PVPGunPlus
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands: 
+  pvpgunplus:
+    description:
+    usage:
+permissions:
+  pvpgunplus:
+    description: Used for guns
+    default: op
